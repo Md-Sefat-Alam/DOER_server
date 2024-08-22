@@ -159,7 +159,7 @@ client
     });
 
     app.get("/", (req, res) => {
-      res.send("Wahidur Server");
+      res.send("DOER SERVER IS RUNNING");
     });
 
     // Start the server
